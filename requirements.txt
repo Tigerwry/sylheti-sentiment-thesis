@@ -1,6 +1,6 @@
 streamlit
 pandas
-tensorflow
+tensorflow==2.12.0
 scikit-learn
 openpyxl
 joblib
